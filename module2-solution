@@ -6,12 +6,12 @@
   <link rel="stylesheet" href="cousera-test/CSS">
 </head>
 <body>
-<section>
+<h1> Practice</h1>
 
-Section 1
-</section
-<p> "hello"</p>
-
+<div class="row">
+<div class="col-lg-1> <p> hat</p>
+<div class="col-lg-2> <p> coat </p>
+<div class="col=lg-3> <p> coat </p>
 
 </body>
 </html>
